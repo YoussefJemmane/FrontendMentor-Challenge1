@@ -1,11 +1,11 @@
-
+import img from './assets/image-qr-code.png'
 function App() {
   return (
   
       <div className="grid h-screen place-items-center bg-lightgrey">
       <div className="rounded-2xl border shadow-lg w-80 bg-white mobile:mx-4 ">
         <div className="flex justify-center m-3">
-          <img src="../public/image-qr-code.png" alt="" className="rounded-2xl  "/>
+          <img src={img} alt="" className="rounded-2xl  "/>
         </div>
         <div className="flex justify-center">
           <h1 className="text-center font-outfit text-p text-darkblue mt-3 mx-5 text-2xl font-bold">Improve your front-end skills by building projects</h1>
