@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-using-react-and-tailwind-VdHVDKXKCZ)
-- Live Site URL: [Add live site URL here](https://frontend-mentor-challenge1-youssefjemmane.vercel.app/)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-using-react-and-tailwind-VdHVDKXKCZ)
+- Live Site URL: [live site URL here](https://frontend-mentor-challenge1-youssefjemmane.vercel.app/)
 
 ## My process
 
@@ -67,7 +67,7 @@ I'm still not comfortable with getting the colors from the style-guide.md file a
 
 ### Useful resources
 
-- [Example resource 1](https://tailwindcss.com/) - The Tailwind documentation helped me a lot to understand how to use custom css.
+- [Resource 1](https://tailwindcss.com/) - The Tailwind documentation helped me a lot to understand how to use custom css.
 
 ## Author
 
